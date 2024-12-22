@@ -1,6 +1,6 @@
 ## Security Code Identification(防伪码识别)
-Verify the authenticity of the product by identifying the anti-counterfeiting code to ensure traceability.
-通过识别防伪码来验证产品的真伪，保证可追溯性。
+- [ ] Verify the authenticity of the product by identifying the anti-counterfeiting code to ensure traceability.
+- [ ] 通过识别防伪码来验证产品的真伪，保证可追溯性。
 
 
 ## Technology use

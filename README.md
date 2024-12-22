@@ -10,8 +10,8 @@
 
 
 ## 图片展示
-![输入图片说明](public/preview/1.jpg)
-![输入图片说明](public/preview/2.jpg)
+![输入图片说明](./public/preview/1.jpg)
+![输入图片说明](./public/preview/2.jpg)
 ![输入图片说明](public/preview/3.jpg)
 ![输入图片说明](public/preview/4.jpg)
 ![输入图片说明](public/preview/5.png)

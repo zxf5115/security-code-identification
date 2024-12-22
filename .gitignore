@@ -4,6 +4,8 @@
 /public/storage
 /public/logs
 /public/cert
+/public/security
+/public/tmp
 /.idea
 .env
 .env.backup

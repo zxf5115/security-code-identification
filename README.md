@@ -4,8 +4,8 @@
 
 
 ## Technology use
-- 接口端使用：Laravel 6.0
-- 平台端使用：Layui 2.5.4
+- Back-end code：Laravel 6.0
+- Front-end code：Layui 2.5.4
 
 
 ## Picture display

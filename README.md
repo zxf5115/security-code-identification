@@ -1,6 +1,6 @@
 ## Security Code Identification(防伪码识别)
-- [ ] Verify the authenticity of the product by identifying the anti-counterfeiting code to ensure traceability.
-- [ ] 通过识别防伪码来验证产品的真伪，保证可追溯性。
+- Verify the authenticity of the product by identifying the anti-counterfeiting code to ensure traceability.
+- 通过识别防伪码来验证产品的真伪，保证可追溯性。
 
 
 ## Technology use
@@ -9,28 +9,29 @@
 
 
 ## Picture display
-![原始图片](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/1.jpg)
+![原始图片](public/preview/1.jpg)
 
-![包含遮盖层原始图片](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/2.jpg)
+![包含遮盖层原始图片](public/preview/2.jpg)
 
-![灰度化图片](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/3.jpg)
+![灰度化图片](public/preview/3.jpg)
 
-![包含遮盖层灰度化图片](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/4.jpg)
+![包含遮盖层灰度化图片](public/preview/4.jpg)
 
-![防伪码图片计算规则](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/5.png)
+![防伪码图片计算规则](public/preview/5.png)
 
-![登录页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/6.png)
+![登录页](public/preview/6.png)
 
-![首页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/7.png)
+![首页](public/preview/7.png)
 
-![防伪码列表页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/8.png)
+![防伪码列表页](public/preview/8.png)
 
-![防伪码信息页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/9.png)
+![防伪码信息页](public/preview/9.png)
 
-![防伪码分类页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/10.png)
-![防伪码导入页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/11.png)
+![防伪码分类页](public/preview/10.png)
 
-![扫码记录页](https://raw.githubusercontent.com/zxf5115/security-code-identification/main/public/preview/12.png)
+![防伪码导入页](public/preview/11.png)
+
+![扫码记录页](public/preview/12.png)
 
 
 ### Find for remote work or collaboration

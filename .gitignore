@@ -1,0 +1,17 @@
+/node_modules
+/storage
+/vendor
+/public/storage
+/public/logs
+/public/cert
+/.idea
+.env
+.env.backup
+.editorconfig
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+/config/upload.php

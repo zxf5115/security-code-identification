@@ -12,7 +12,7 @@
 ## 图片展示
 ![1](./public/preview/1.jpg)
 ![2](./public/preview/2.jpg)
-![3](https://github.com/zxf5115/security-code-identification/edit/main/public/preview/3.jpg)
+![3](https://github.com/zxf5115/security-code-identification/blob/main/public/preview/3.jpg)
 ![输入图片说明](public/preview/4.jpg)
 ![输入图片说明](public/preview/5.png)
 

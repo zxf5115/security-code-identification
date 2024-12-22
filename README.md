@@ -36,5 +36,5 @@ I possess 12 years of experience in PHP development, 5 years of full-time outsou
 我是一位12年PHP开发经验，5年全职外包服务经验，3年python开发经验。现在寻找兼职工作、远程工作、驻场工作机会。 感觉合适的话随时联系。
 
 
-- [ ] ##### Email: 1326336909@qq.com
-- [ ] ##### Wechat: zxf5115
+-[ ] Email: 1326336909@qq.com
+-[ ] Wechat: zxf5115

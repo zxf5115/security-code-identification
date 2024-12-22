@@ -1,6 +1,8 @@
 # Security Code Identification
 Verify the authenticity of the product by identifying the anti-counterfeiting code to ensure traceability.
 
+通过识别防伪码来验证产品的真伪，保证可追溯性。
+
 ## Technology use
 - 接口端使用：Laravel 6.0
 - 平台端使用：Layui 2.5.4
@@ -28,15 +30,12 @@ Verify the authenticity of the product by identifying the anti-counterfeiting co
 
 
 ## 合作
+- [ ] Email: 1326336909@qq.com
+- [ ] Wechat: zxf5115
+
 ### Find for remote work or collaboration
 I possess 12 years of experience in PHP development, 5 years of full-time outsourcing service experience, and 3 years of Python development experience.  I am currently seeking part-time, remote work opportunities.  Please feel free to contact me if you believe my background aligns with your requirements.
 
 
 ### 寻找远程工作或者合作
 我是一位12年PHP开发经验，5年全职外包服务经验，3年python开发经验。现在寻找兼职工作、远程工作、驻场工作机会。 感觉合适的话随时联系。
-
-
-
-
-- [ ] Email: 1326336909@qq.com
-- [ ] Wechat: zxf5115

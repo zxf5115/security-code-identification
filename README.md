@@ -4,7 +4,10 @@
 
 
 ## Technology use
-- Back-end code：Laravel 6.0
+- Development language：PHP 7.4
+- System framework：Laravel 6.0
+- Database: Mysql 5.7
+- Cache: Redis
 - Front-end code：Layui 2.5.4
 
 
